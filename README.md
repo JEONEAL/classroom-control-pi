@@ -1,4 +1,4 @@
-# `classroom-control-pi`
+# `classroom-control-pi_john`
 
 This is the classroom control repository for the Puppetizing Infrastructure class.
 
